@@ -4,7 +4,7 @@
 
 ### This repository contains solutions to these 12 assembly tasks, coded in three machines (8086, IBM 360, MIPS).
 
-### Project-Document contains the tasks and Project_Report contains our explained soloutions.
+### Project-Document contains the tasks and Project-Report contains our explained soloutions.
 
 # Maintainers
 - [Iman Mohammadi](https://github.com/Imanm02)
