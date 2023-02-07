@@ -1,6 +1,6 @@
 # Computer Structure Project
 
-### In this project, we had to program 12 assembly tasks on three machines in this project. 
+### In this project, we had to program 12 assembly tasks on three machines. 
 
 ### This repository contains solutions to these 12 assembly tasks, coded in three machines (8086, IBM 360, MIPS).
 
