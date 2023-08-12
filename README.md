@@ -1,10 +1,8 @@
-# Computer Structure Project
+# Assembly Tasks on Multiple Architectures
 
-### In this project, we had to program 12 assembly tasks on three machines. 
+In this project, we tackled a series of 12 assembly programming tasks on three distinct machine architectures: 8086, IBM 360, and MIPS. Our solutions are compiled here, showcasing our proficiency in coding for various computing systems.
 
-### This repository contains solutions to these 12 assembly tasks, coded in three machines (8086, IBM 360, MIPS).
-
-### Project-Document contains the tasks and Project-Report contains our explained soloutions.
+You can also discover detailed descriptions of the 12 assembly tasks that constituted our project. Each task's context, specifications, and expected outcomes are meticulously documented, providing you with a clear understanding of the challenges we addressed.
 
 # Maintainers
 - [Iman Mohammadi](https://github.com/Imanm02)
